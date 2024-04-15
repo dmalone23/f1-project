@@ -7,11 +7,11 @@
 - [ ] Create adjacency matricies for each city in relation to the other cities (REMEMBER TO USE geographiclib)
 
 ## Later: (look at the title)
-- [ ] Implement brute-force approach
-- [ ] Implement Held-Karp algorithm
-- [ ] Implement Linear programming solution
-- [ ] Implement branch & bound solution
-- [ ] Implement genetic programming algorithm
+- [ ] Implement brute-force approach: https://en.wikipedia.org/wiki/Travelling\_salesman\_problem#Exact\_algorithms
+- [ ] Implement Held-Karp algorithm: https://en.wikipedia.org/wiki/Held%E2%80%93Karp\_algorithm
+- [ ] Implement Linear programming solution: https://en.wikipedia.org/wiki/Travelling\_salesman\_problem#Integer\_linear\_programming\_formulations
+- [ ] Implement branch & bound solution: https://www.math.cmu.edu/~bkell/21257-2014f/tsp.pdf
+- [ ] Implement genetic programming algorithm: you know what to do
 - [ ] Figure out how to prove that no shorter distance exists
 - [ ] Redo everything with constraints (Middle East/Australia races start at the beginning/end)
 
